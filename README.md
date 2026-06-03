@@ -1,4 +1,4 @@
-# FramZ 🌾
+# FramZ 🐮
 
 A 2D top-down farming game built with **Godot 4.4**, inspired by games like Stardew Valley. Chop trees, mine rocks, till soil, water crops, and interact with NPCs — all in a pixel-art world.
 
